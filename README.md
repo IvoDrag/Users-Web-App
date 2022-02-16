@@ -5,3 +5,4 @@
 * Bootstrap
 * Lombok
 * Jasypt
+* MySQL
